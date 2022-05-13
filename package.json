@@ -1,0 +1,28 @@
+{
+  "name": "doodaydate-ts",
+  "version": "1.0.1",
+  "description": "doodayday a na",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc"
+  },
+  "files": ["lib/**/*"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreaharris-go/doodaydate-ts.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Duckdev84 <duckdev84@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreaharris-go/doodaydate-ts/issues"
+  },
+  "homepage": "https://github.com/andreaharris-go/doodaydate-ts#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
